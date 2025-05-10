@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Research Fellow at National University of Singapore (NUS). I received the BSc degree in Computer Science from Xi'an Jiaotong University in 2019, the MSc degree in Artificial Intelligence from the NUS in 2020, and the PhD degree in Computer Science from NUS in 2024.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I'm interested in energy-efficient neuromorphic computing. Previously, I focused on software-level spiking neural networks and
+biomedical applications. Now, my research has shifted towards neuromorphic architecture, exploring software algorithms from a
+hardware perspective and pursuing 'AI + X,' where X represents hardware applications.
 
 ## News
 
