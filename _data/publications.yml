@@ -14,7 +14,7 @@ main:
     code: https://github.com/zhangluyan9/Low-latency-SNNs
     notes: Early accept
     image: ./assets/img/tnnls.png
- - title: "OneSpike: Ultra-low latency spiking neural networks"
+  - title: "OneSpike: Ultra-low latency spiking neural networks"
     authors: Kaiwen Tang, <strong>Zhanglu Yan*</strong>, Weng-Fai Wong (*Corresponding authors,Equal contributions)
     conference_short: IJCNN
     conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.
