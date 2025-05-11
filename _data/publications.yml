@@ -20,14 +20,14 @@ main:
  - title: "OneSpike: Ultra-low latency spiking neural networks"
     authors: Kaiwen Tang#, <strong>Zhanglu Yan#*</strong>, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: IJCNN
-    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2025.
+    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.
     code: https://github.com/Kaiwen-Tang/OneSpike
     image: ./assets/img/onespike.png
 
   - title: "Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N-Terminal Coding Sequences"
     authors: <strong>Zhanglu Yan#*</strong>, Weiran Chu#, Yuhua Sheng, Kaiwen Tang, Shida Wang, Yanfeng Liu#, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: ACS Synth. Biol
-    conference: ACS Synthetic Biology <strong>(ACS Synth. Biol)</strong>, 2025.
+    conference: ACS Synthetic Biology <strong>(ACS Synth. Biol)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2402.13297
     image: ./assets/img/biology.png
 
