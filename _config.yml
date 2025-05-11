@@ -6,9 +6,9 @@ email: zlyan@nus.edu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: zhanglu yan
-description: Here is Zhanglu Yan's homepages..
-canonical: https://zhangluyan9.github.io
+keywords: ["Yan Zhanglu","Zhanglu Yan","NUS Research Fellow","Neuromorphic Computing","yan zhanglu","zhanglu"]
+description: "Yan Zhanglu 的学术主页，研究方向：神经形态计算、SNN 与能效优化。"
+canonical: https://zhangluyan9.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
