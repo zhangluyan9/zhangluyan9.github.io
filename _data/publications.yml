@@ -45,6 +45,7 @@ main:
     pdf: https://arxiv.org/pdf/2301.10902
     code: https://github.com/zhangluyan9/EffHDC
     image: ./assets/img/hdc.png
+    notes: Oral presentation
   - title: "Near lossless transfer learning for spiking neural networks"
     authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou*, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: AAAI
@@ -55,5 +56,5 @@ main:
   - title: "Energy efficient ECG classification with spiking neural network"
     authors: <strong>Zhanglu Yan</strong>, Jun Zhou, Weng-Fai Wong 
     conference_short: BSPC
-    conference: Biomedical Signal Processing and Control
+    conference: Biomedical Signal Processing and Control <strong>(BSPC)</strong>, 2021.
     image: ./assets/img/ecg.png
