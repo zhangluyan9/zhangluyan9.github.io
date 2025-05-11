@@ -20,8 +20,7 @@ main:
  - title: "OneSpike: Ultra-low latency spiking neural networks"
     authors: Kaiwen Tang#, <strong>Zhanglu Yan#*</strong>, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: IJCNN
-    conference:  International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2025.
-    pdf: https://ieeexplore.ieee.org/document/10651169
+    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2025.
     code: https://github.com/Kaiwen-Tang/OneSpike
     image: ./assets/img/onespike.png
 
@@ -36,7 +35,7 @@ main:
     authors: Huayu Yang, <strong>Zhanglu Yan</strong>, Huacheng Zhu, Bowen Yan, Wei Chen, Daming Fan
     conference_short: CEJ
     conference: Chemical Engineering Journal <strong>(CEJ)</strong>, 2024.
-    image: ./assets/img/tnnls.png
+    image: ./assets/img/cej.png
 
   - title: "CQ + Training: Minimizing Accuracy Loss in Conversion from Convolutional Neural Networks to Spiking Neural Networks"
     authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
