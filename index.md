@@ -18,10 +18,10 @@ hardware perspective and pursuing 'AI + X,' where X represents hardware applicat
 - **[May. 2025]** Our paper about SNN conversion algorithm is accepted to TNNLS 2025.
 - **[Oct. 2024]** I join NUS with Prof.Wong Weng-Fai as a research fellow!
 - **[Aug. 2024]** I past my Phd defense from NUS!
-- **[May. 2024]** Our paper about integrating AI with Synthetic Biology with Jiangnan University is accepted to ACS Synth. Biol!
+- **[May. 2024]** Our paper about integrating AI with Synthetic Biology is accepted to ACS Synth. Biol!
 - **[Aug. 2023]** Our paper about HDC is accepted to ECML 2023 (Oral)!
-- **[Aug. 2023]** Our paper about CNN-to-SNN conversion is accepted to TPAMI 2023.
-- **[Nov. 2021]** Our paper about low-latency SNN is accepted to AAAI 2021.
+- **[Aug. 2023]** Our paper about CNN-to-SNN conversion is accepted to TPAMI 2023!
+- **[Nov. 2021]** Our paper about low-latency SNN is accepted to AAAI 2021!
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
