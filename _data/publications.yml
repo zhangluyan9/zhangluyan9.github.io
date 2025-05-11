@@ -11,7 +11,8 @@ main:
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2211.08410
-    code: https://github.com/zhangluyan9/Low-latency-SNNs    image: ./assets/img/tnnls.png
+    code: https://github.com/zhangluyan9/Low-latency-SNNs    
+    image: ./assets/img/tnnls.png
   - title: "OneSpike: Ultra-low latency spiking neural networks"
     authors: Kaiwen Tang, <strong>Zhanglu Yan#*</strong>, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: IJCNN
