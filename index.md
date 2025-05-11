@@ -14,10 +14,10 @@ hardware perspective and pursuing 'AI + X,' where X represents hardware applicat
 
 ## News
 
-- **[May. 2025]** Our paper about spiking LLM is accepted to ICML 2025.
-- **[May. 2025]** Our paper about SNN conversion algorithm is accepted to TNNLS 2025.
+- **[May. 2025]** Our paper about spiking LLM is accepted to ICML 2025!
+- **[May. 2025]** Our paper about SNN conversion algorithm is accepted to TNNLS 2025!
 - **[Oct. 2024]** I join NUS with Prof.Wong Weng-Fai as a research fellow!
-- **[Aug. 2024]** I past my Phd defense from NUS!
+- **[Aug. 2024]** I receive Ph.D. in Computer Science from NUS!
 - **[May. 2024]** Our paper about integrating AI with Synthetic Biology is accepted to ACS Synth. Biol!
 - **[Aug. 2023]** Our paper about HDC is accepted to ECML 2023 (Oral)!
 - **[Aug. 2023]** Our paper about CNN-to-SNN conversion is accepted to TPAMI 2023!
