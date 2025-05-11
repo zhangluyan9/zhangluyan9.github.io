@@ -15,7 +15,7 @@ main:
     notes: Early accept
     image: ./assets/img/tnnls.png
   - title: "Low Latency Conversion of Artificial Neural Network Models to Rate-encoded Spiking Neural Networks"
-    authors: <strong>Zhanglu Yan</strong>, Kaiwen Tang, Jun Zhou, Weng-Fai Wong
+    authors: <strong>Zhanglu Yan#*</strong>, Kaiwen Tang, Jun Zhou, Weng-Fai Wong
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, 2025.
     code: https://github.com/zhangluyan9/Low-latency-SNNs
