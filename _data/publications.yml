@@ -39,7 +39,7 @@ main:
     code: https://github.com/zhangluyan9/CQ-PLUS-Training
     image: ./assets/img/cq+.png
   - title: "Efficient Hyperdimensional Computing"
-    authors: Zhanglu Yan,  Shida Wang, Kaiwen Tang, Weng-Fai Wong 
+    authors: <strong>Zhanglu Yan</strong>,  Shida Wang, Kaiwen Tang, Weng-Fai Wong 
     conference_short: ECML
     conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2301.10902
@@ -51,11 +51,9 @@ main:
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2021.
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=pBjJBj0AAAAJ&sortby=pubdate&citation_for_view=pBjJBj0AAAAJ:u-x6o8ySG0sC
     code: https://github.com/zhangluyan9/CQ-PLUS-Training
-    image: ./assets/img/cq+.png
-  - title: "Efficient Hyperdimensional Computing"
-    authors: Zhanglu Yan,  Shida Wang, Kaiwen Tang, Weng-Fai Wong 
-    conference_short: ECML
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2301.10902
-    code: https://github.com/zhangluyan9/EffHDC
-    image: ./assets/img/hdc.png
+    image: ./assets/img/cq.png
+  - title: "Energy efficient ECG classification with spiking neural network"
+    authors: <strong>Zhanglu Yan</strong>, Jun Zhou, Weng-Fai Wong 
+    conference_short: BSPC
+    conference: Biomedical Signal Processing and Control
+    image: ./assets/img/cq.png
