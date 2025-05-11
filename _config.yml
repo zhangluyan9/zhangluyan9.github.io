@@ -6,9 +6,9 @@ email: zlyan@nus.edu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: zhanglu yan
+description: Here is Zhanglu Yan's homepages..
+canonical: https://zhangluyan9.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -18,7 +18,7 @@ linkedin: https://www.linkedin.com/in/zhanglu-yan-70a228197/?originalSubdomain=s
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/mine.png
 favicon: ./assets/img/favicon.png
 
 # Footnote
