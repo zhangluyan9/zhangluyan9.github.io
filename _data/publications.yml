@@ -19,6 +19,7 @@ main:
     authors: Kaiwen Tang#, <strong>Zhanglu Yan#*</strong>, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: IJCNN
     conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2211.08410
     code: https://github.com/Kaiwen-Tang/OneSpike
     image: ./assets/img/onespike.png
     
