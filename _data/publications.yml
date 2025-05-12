@@ -45,6 +45,11 @@ main:
     code: https://github.com/zhangluyan9/EffHDC
     image: ./assets/img/hdc.png
     notes: Oral presentation
+ - title: "EEG classification with spiking neural network: Smaller, better, more energy efficient"
+    authors: <strong>Zhanglu Yan</strong>, Jun Zhou, Weng-Fai Wong 
+    conference_short: SH
+    conference: Smart Health <strong>(SH)</strong>, 2022.
+    image: ./assets/img/ecg.png
   - title: "Near lossless transfer learning for spiking neural networks"
     authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou#, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: AAAI
