@@ -14,7 +14,7 @@ main:
     code: https://github.com/zhangluyan9/Low-latency-SNNs    
     image: ./assets/img/tnnls.png
   - title: "OneSpike: Ultra-low latency spiking neural networks"
-    authors: Kaiwen Tang, <strong>Zhanglu Yan#*</strong>, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
+    authors: Kaiwen Tang#, <strong>Zhanglu Yan#*</strong>, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: IJCNN
     conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2024.
     code: https://github.com/Kaiwen-Tang/OneSpike
@@ -31,7 +31,7 @@ main:
     conference: Chemical Engineering Journal <strong>(CEJ)</strong>, 2024.
     image: ./assets/img/cej.png
   - title: "CQ + Training: Minimizing Accuracy Loss in Conversion from Convolutional Neural Networks to Spiking Neural Networks"
-    authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou*, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
+    authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou#, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10152465/
@@ -46,7 +46,7 @@ main:
     image: ./assets/img/hdc.png
     notes: Oral presentation
   - title: "Near lossless transfer learning for spiking neural networks"
-    authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou*, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
+    authors: <strong>Zhanglu Yan*#</strong>, Jun Zhou#, Weng-Fai Wong (*Corresponding authors,#Equal contributions)
     conference_short: AAAI
     conference: Proceedings of the AAAI conference on artificial intelligence <strong>(AAAI)</strong>, 2021.
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=pBjJBj0AAAAJ&sortby=pubdate&citation_for_view=pBjJBj0AAAAJ:u-x6o8ySG0sC
