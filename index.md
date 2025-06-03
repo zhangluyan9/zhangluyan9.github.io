@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Fellow at National University of Singapore (NUS). I received the BSc degree in Computer Science from Xi'an Jiaotong University in 2019, the MSc degree in Artificial Intelligence from the NUS in 2020, and the PhD degree in Computer Science from NUS in 2024. My [CV](assets/files/zhangluyan-cv.pdf) is attached:) For test, google file  [gf](googleca1542c03407b990.html)
+I am a Research Fellow at National University of Singapore (NUS). I received the BSc degree in Computer Science from Xi'an Jiaotong University in 2019, the MSc degree in Artificial Intelligence from the NUS in 2020, and the PhD degree in Computer Science from NUS in 2024. My [CV](assets/files/zhangluyan-cv.pdf) is attached:) 
 
 ## Research Interests
 
