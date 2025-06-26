@@ -14,8 +14,9 @@ hardware perspective and pursuing 'AI + X,' where X represents hardware applicat
 
 ## News
 
+- **[June. 2025]** Our paper about data-driven dynamic execution orchestration architecture is accepted to ASPLOS 2026!
 - **[May. 2025]** Our paper about spiking LLM is accepted to ICML 2025!
-- **[May. 2025]** Our paper about SNN conversion algorithm is accepted to TNNLS 2025!
+- **[Jan. 2025]** Our paper about SNN conversion algorithm is accepted to TNNLS 2025!
 - **[Oct. 2024]** I join NUS with Prof.Wong Weng-Fai as a research fellow!
 - **[Aug. 2024]** I receive Ph.D. in Computer Science from NUS!
 - **[May. 2024]** Our paper about integrating AI with Synthetic Biology is accepted to ACS Synth. Biol!
