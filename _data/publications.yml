@@ -6,6 +6,12 @@ main:
     pdf: https://arxiv.org/pdf/2409.15298
     code: https://github.com/Kaiwen-Tang/Sorbet
     image: ./assets/img/sorbet.png
+  - title: "Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model"
+    authors: Kaiwen Tang, <strong>Zhanglu Yan*</strong>, Weng-Fai Wong (*Corresponding authors)
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2409.15298
+    code: https://github.com/Kaiwen-Tang/Sorbet
   - title: "Low Latency Conversion of Artificial Neural Network Models to Rate-encoded Spiking Neural Networks"
     authors: <strong>Zhanglu Yan</strong>, Kaiwen Tang, Jun Zhou, Weng-Fai Wong
     conference_short: TNNLS
