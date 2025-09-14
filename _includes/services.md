@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://icml.cc"><autocolor>International Conference on Machine Learning (ICML) </autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV)</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-25/"><autocolor>Association for the Advancement of Artificial Intelligence (AAAI) </autocolor></a></li>
   <li><a href="https://2025.iccad.com"><autocolor>International Conference on Computer-Aided Design (ICCAD) </autocolor></a></li>
 </ul>
 
