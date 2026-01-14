@@ -14,6 +14,7 @@ hardware perspective and pursuing 'AI + X,' where X represents hardware applicat
 
 ## News
 
+- **[Jan. 2026]** Our paper about mix-precision quantized SNN is accepted to WWW 2026!
 - **[June. 2025]** Our paper about data-driven dynamic execution orchestration architecture is accepted to ASPLOS 2026!
 - **[May. 2025]** Our paper about spiking LLM is accepted to ICML 2025!
 - **[Jan. 2025]** Our paper about SNN conversion algorithm is accepted to TNNLS 2025!
