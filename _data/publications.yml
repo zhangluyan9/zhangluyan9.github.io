@@ -1,4 +1,10 @@
 main:
+  - title: "HyperSNN: A new efficient and robust deep learning model for resource constrained control applications"
+    authors:  <strong>Zhanglu Yan</strong>, Shida Wang, Kaiwen Tang, ZHenyu Bai, Weng-Fai Wong 
+    conference_short: ACC
+    conference: The American Control Conference <strong>(ACC)</strong>, 2026.
+    image: ./assets/img/acc26.png
+    
   - title: "Energy-Efficient and Dequantization-Free Q-LLMs: A Spiking Neural Network Approach to Salient Value Mitigation"
     authors: Chenyu Wang, <strong>Zhanglu Yan*</strong>, Zhi Zhou*, Xu Chen, Weng-Fai Wong (*Corresponding authors)
     conference_short: WWW
