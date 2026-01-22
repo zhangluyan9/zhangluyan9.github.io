@@ -4,7 +4,8 @@ main:
     conference_short: ACC
     conference: The American Control Conference <strong>(ACC)</strong>, 2026.
     image: ./assets/img/acc26.png
-    
+    notes: Oral presentation
+
   - title: "Energy-Efficient and Dequantization-Free Q-LLMs: A Spiking Neural Network Approach to Salient Value Mitigation"
     authors: Chenyu Wang, <strong>Zhanglu Yan*</strong>, Zhi Zhou*, Xu Chen, Weng-Fai Wong (*Corresponding authors)
     conference_short: WWW
