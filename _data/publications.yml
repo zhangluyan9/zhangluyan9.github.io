@@ -1,6 +1,6 @@
 main:
   - title: "HyperSNN: A new efficient and robust deep learning model for resource constrained control applications"
-    authors:  <strong>Zhanglu Yan</strong>, Shida Wang, Kaiwen Tang, ZHenyu Bai, Weng-Fai Wong 
+    authors:  <strong>Zhanglu Yan</strong>, Shida Wang, Kaiwen Tang, Zhenyu Bai, Weng-Fai Wong 
     conference_short: ACC
     conference: The American Control Conference <strong>(ACC)</strong>, 2026.
     image: ./assets/img/acc26.png
