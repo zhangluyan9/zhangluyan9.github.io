@@ -1,4 +1,10 @@
 main:
+  - title: "Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding"
+    authors:  <strong>Zhanglu Yan*</strong>, Jiayi Mao, Qianhui Liu, Fanfan Li, Tao Luo, Gang Pan, Bowen Zhu, Weng-Fai Wong (*Corresponding authors)
+    conference_short: ICLR
+    conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    image: ./assets/img/otters.png
+    
   - title: "HyperSNN: A new efficient and robust deep learning model for resource constrained control applications"
     authors:  <strong>Zhanglu Yan</strong>, Shida Wang, Kaiwen Tang, Zhenyu Bai, Weng-Fai Wong 
     conference_short: ACC
