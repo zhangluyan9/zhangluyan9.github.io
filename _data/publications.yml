@@ -1,4 +1,17 @@
 main:
+  - title: "Spinal-inspired artificial tactile interneuron with high-order burst spiking for intelligent edge interfaces"
+    authors:  Fanfan Li#, <strong>Zhanglu Yan#*</strong>, J. Mao, G. Liu, H. Ren, B. Qin, Z. Zhang, H. Zhang, Y. Shen, Z. Zheng, W. Feng, D. Li, Y. Tang, S. Wang, Y. Jin, T. Luo, W.-f. Wong, Hong Wang, Bowen Zhu (#Equal contributions)
+    conference_short: NC
+    conference: Nature Communication <strong>(NC)</strong>, 2026.
+    image: ./assets/img/NC.png
+
+  - title: "SparrowSNN: A hardware/software co-design for energy efficient ECG classification"
+    authors:  Zhenyu Bai, <strong>Zhanglu Yan*</strong>, Gao Bin, Tulika Mitra, Weng-Fai Wong (*Corresponding authors)
+    conference_short: TCAD
+    conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems <strong>(TCAD)</strong>, 2026.
+    image: ./assets/img/tcad.png
+
+  
   - title: "Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding"
     authors:  <strong>Zhanglu Yan*</strong>, Jiayi Mao, Qianhui Liu, Fanfan Li, Tao Luo, Gang Pan, Bowen Zhu, Weng-Fai Wong (*Corresponding authors)
     conference_short: ICLR
