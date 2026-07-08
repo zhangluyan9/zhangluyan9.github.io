@@ -8,11 +8,11 @@ I am a Research Fellow at National University of Singapore (NUS). I received the
 
 ## Research Interests
 
-I'm interested in energy-efficient neuromorphic computing. Previously, I focused on software-level spiking neural networks and
-biomedical applications. Now, my research has shifted towards neuromorphic architecture, exploring software algorithms from a
-hardware perspective and pursuing 'AI + X,' where X represents hardware applications.
+Investigating the inner mechanisms of spiking neural networks across material, circuit, architecture, algorithm, and application levels, with the goal of developing truly energy-efficient SNN systems.
 
 ## News
+- **[July. 2026]** Our paper about high-order burst spiking encoding is accepted to Nature Communication (NC) !
+- **[June. 2026]** Our paper about SNN architecture design has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) !
 - **[Jan. 2026]** Our paper about optical spiking transformer is accepted to ICLR 2026 !
 - **[Jan. 2026]** Our paper about spiking HDC used for control domain is accepted to ACC 2026 (Oral)!
 - **[Jan. 2026]** Our paper about mix-precision quantized SNN is accepted to WWW 2026!
