@@ -11,6 +11,7 @@ I am a Research Fellow at National University of Singapore (NUS). I received the
 Investigating the inner mechanisms of spiking neural networks across material, circuit, architecture, algorithm, and application levels, with the goal of developing truly energy-efficient SNN systems.
 
 ## News
+- **[July. 2026]** Our paper about new SNN activation function is accepted to ACM MM 2026 (MM) !
 - **[July. 2026]** Our paper about high-order burst spiking encoding is accepted to Nature Communication (NC) !
 - **[June. 2026]** Our paper about SNN architecture design has been accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) !
 - **[Jan. 2026]** Our paper about optical spiking transformer is accepted to ICLR 2026 !
