@@ -1,4 +1,10 @@
 main:
+  - title: "ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization"
+    authors: Kaiwen Tang, Di Yu, Jiaqi Zheng, Changze Lv, Qianhui Liu, <strong>Zhanglu Yan*</strong>, Weng-Fai Wong (*Corresponding authors)
+    conference_short: ACM MM
+    conference:  ACM International Conference on Multimedia <strong>(MM)</strong>, 2026.
+    image: ./assets/img/shiftlif.png
+    
   - title: "Spinal-inspired artificial tactile interneuron with high-order burst spiking for intelligent edge interfaces"
     authors:  Fanfan Li#, <strong>Zhanglu Yan#</strong>, J. Mao, G. Liu, H. Ren, B. Qin, Z. Zhang, H. Zhang, Y. Shen, Z. Zheng, W. Feng, D. Li, Y. Tang, S. Wang, Y. Jin, T. Luo, W.-f. Wong, Hong Wang, Bowen Zhu (#Equal contributions)
     conference_short: NC
